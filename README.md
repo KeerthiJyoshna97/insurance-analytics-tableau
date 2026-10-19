@@ -1,5 +1,13 @@
 # Insurance Analytics Dashboard
 
+## Dashboard Preview
+
+![Insurance Analytics Dashboard](Insurance%20analytics%20tableau%20Dashboard.png)
+
+## Project File
+
+[Download Tableau Workbook](./Insurance%20data%20analytics-tableau.twbx)
+
 ## Project Overview
 
 Developed an interactive Tableau dashboard to analyze insurance policies, customers, claims, and payment data. The project provides key business insights through KPI cards, interactive visualizations, filters, and calculated fields.
